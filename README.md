@@ -7,21 +7,50 @@
 
 ---
 
-- 🔭 I’m currently working on **an e-commerce website with ASP.NET Core MVC**
-- 🌱 I’m currently learning **ReactJS, Tailwind CSS, PostgreSQL**
+### 👨‍💻 About Me
+
+- 🔭 I'm currently working on **an e-commerce website with ASP.NET Core MVC**
+- 🌱 I'm currently learning **ReactJS, Tailwind CSS, PostgreSQL**
 - 💬 Ask me about **.NET, C#, SQL Server**
-- 📫 How to reach me: **your_email@example.com**
-- ⚡ Fun fact: I love learning languages like **Pāli and English**
+- 📫 How to reach me: **phuoctrongn2001er@gmail.com**
 
 ---
 
-### 🛠️ Languages and Tools:
+### 📫 Connect with me
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/trongnp0706trongnp0706/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:phuoctrongn2001er@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.facebook.com/phuoctrong0706/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /></a>
+</p>
+
+---
+
+### 💻 Technical Skills
+
+#### Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+</p>
+
+#### Frameworks
 <p>
   <img src="https://img.shields.io/badge/dotnet-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+</p>
+
+#### Databases
+<p>
   <img src="https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
+</p>
+
+#### Tools
+<p>
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
 ---
@@ -37,14 +66,5 @@
 
 ### 🗂️ Highlight Projects
 
-- 🔹 [E-Commerce Website - ASP.NET Core MVC](https://github.com/nguyenphuoctrong/ecommerce-app)
-- 🔹 [English Test App - React + Node.js](https://github.com/nguyenphuoctrong/englishtest-app)
-
----
-
-### 📫 Connect with me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/yourname/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your_email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+- 🔹 [E-Commerce Website](https://github.com/nguyenphuoctrong/ecommerce-website) - ASP.NET Core MVC online shopping platform with user authentication, product catalog, and payment integration
+- 🔹 [English Learning App](https://github.com/nguyenphuoctrong/english-learning-app) - Interactive application for learning English using React and NodeJs
