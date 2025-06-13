@@ -66,5 +66,5 @@
 
 ### 🗂️ Highlight Projects
 
-- 🔹 [E-Commerce Website](https://github.com/nguyenphuoctrong/ecommerce-website) - ASP.NET Core MVC online shopping platform with user authentication, product catalog, and payment integration
-- 🔹 [English Learning App](https://github.com/nguyenphuoctrong/english-learning-app) - Interactive application for learning English using React and NodeJs
+- 🔹 [E-Commerce Drsfan](https://github.com/trongnp0706/Drsfan) - ASP.NET Core MVC online shopping platform with user authentication, product catalog, and payment integration
+- 🔹 [English Test GreenPREP App](https://greenprep-vznp.onrender.com) - Interactive application for learning English using React and NodeJs
