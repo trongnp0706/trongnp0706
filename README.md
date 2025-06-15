@@ -84,11 +84,13 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://greenprep-vznp.onrender.com" target="_blank">
-    <img src="https://img.shields.io/badge/Live%20Demo-2ea44f?style=for-the-badge" alt="Live Demo"/>
+    <img src="https://img.shields.io/badge/Release-2ea44f?style=for-the-badge" alt="Release"/>
   </a>
 </div>
 
 **Description:** A professional English assessment platform that follows Cambridge English standards, where students can take standardized tests and receive detailed evaluations from qualified teachers. The application helps students prepare for Cambridge English exams with authentic test formats and expert feedback.
+
+**My Role:** As a contributor to this project, I helped develop and implement key features using React, Tailwind CSS, and Node.js.
 
 **Key Features:**
 - 📝 Cambridge-standard English tests and assessments
