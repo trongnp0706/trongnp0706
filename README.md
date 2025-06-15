@@ -61,8 +61,9 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nguyenphuoctrong&show_icons=true&theme=github_dark" width="45%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nguyenphuoctrong&theme=github-dark-blue" width="45%" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=trongnp0706&show_icons=true&theme=github_dark" width="45%" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=trongnp0706&theme=github-dark-blue" width="45%" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trongnp0706&layout=compact&theme=github_dark" width="45%" alt="Top Languages"/>
 </div>
 
 ## 🎯 Featured Projects
@@ -134,6 +135,10 @@
 </div>
 
 ---
+
+<div align="center">
+  <img src="https://github.com/trongnp0706/trongnp0706/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
