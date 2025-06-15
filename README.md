@@ -89,7 +89,7 @@
           <img src="https://img.shields.io/badge/GreenPREP-English%20Test%20App-2ea44f?style=for-the-badge&logo=github" alt="GreenPREP"/>
         </a>
         <br/>
-        <b>GreenPREP Admin & Teacher App</b>
+        <b>GreenPREP App</b>
         <br/>
         <i>An English test application with Cambridge-standard scoring and teacher evaluation.<br/>Role: Contributor</i>
         <br/>
