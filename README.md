@@ -68,12 +68,38 @@
 ## 🎯 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/trongnp0706/Drsfan">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=trongnp0706&repo=Drsfan&theme=github_dark" alt="Drsfan"/>
-  </a>
-  <a href="https://github.com/greenPrep-organization/greenPREP-admin-teacher" target="_blank">
-    <img src="https://img.shields.io/badge/GreenPREP-Repository-blue?style=for-the-badge&logo=github" alt="GreenPREP Repository"/>
-  </a>
+
+  <!-- Drsfan Project Card -->
+  <table>
+    <tr>
+      <td align="center" width="400px">
+        <a href="https://github.com/trongnp0706/Drsfan">
+          <img src="https://img.shields.io/badge/Drsfan-ASP.NET%20MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Drsfan"/>
+        </a>
+        <br/>
+        <b>Drsfan</b>
+        <br/>
+        <i>ASP.NET Core MVC online shopping platform with user authentication, product catalog, and payment integration.</i>
+        <br/>
+        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
+        <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+      </td>
+      <td align="center" width="400px">
+        <a href="https://github.com/greenPrep-organization/greenPREP-admin-teacher">
+          <img src="https://img.shields.io/badge/GreenPREP-English%20Test%20App-2ea44f?style=for-the-badge&logo=github" alt="GreenPREP"/>
+        </a>
+        <br/>
+        <b>GreenPREP Admin & Teacher App</b>
+        <br/>
+        <i>An English test application with Cambridge-standard scoring and teacher evaluation.<br/>Role: Contributor</i>
+        <br/>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+      </td>
+    </tr>
+  </table>
+
 </div>
 
 ### 🌟 Project Highlights
