@@ -63,6 +63,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=trongnp0706&show_icons=true&theme=github_dark" width="45%" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=trongnp0706&theme=github-dark-blue" width="45%" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trongnp0706&layout=compact&theme=github_dark" width="45%" alt="Top Languages"/>
 </div>
 
 ## 🎯 Featured Projects
