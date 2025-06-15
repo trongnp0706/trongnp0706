@@ -76,6 +76,32 @@
   </a>
 </div>
 
+### 🌟 Project Highlights
+
+#### 🎓 English Test GreenPREP App
+<div align="center">
+  <a href="https://greenprep-vznp.onrender.com" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Demo-2ea44f?style=for-the-badge" alt="Live Demo"/>
+  </a>
+</div>
+
+**Description:** A professional English assessment platform that follows Cambridge English standards, where students can take standardized tests and receive detailed evaluations from qualified teachers. The application helps students prepare for Cambridge English exams with authentic test formats and expert feedback.
+
+**Key Features:**
+- 📝 Cambridge-standard English tests and assessments
+- 👨‍🏫 Professional teacher evaluation and feedback
+- 📊 Detailed scoring based on Cambridge English scales
+- 📈 Progress tracking aligned with CEFR levels
+- 🎯 Personalized learning recommendations
+- 📱 Responsive design for seamless testing experience
+
+**Tech Stack:**
+<div align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+</div>
+
 ---
 
 <div align="center">
