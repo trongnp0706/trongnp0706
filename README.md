@@ -71,8 +71,8 @@
   <a href="https://github.com/trongnp0706/Drsfan">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=trongnp0706&repo=Drsfan&theme=github_dark" alt="Drsfan"/>
   </a>
-  <a href="https://github.com/greenPrep-organization">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=trongnp0706&repo=greenprep&theme=github_dark" alt="GreenPREP"/>
+  <a href="https://github.com/greenPrep-organization/greenPREP-admin-teacher" target="_blank">
+    <img src="https://img.shields.io/badge/GreenPREP-Repository-blue?style=for-the-badge&logo=github" alt="GreenPREP Repository"/>
   </a>
 </div>
 
