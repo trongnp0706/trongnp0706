@@ -63,7 +63,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=trongnp0706&show_icons=true&theme=github_dark" width="45%" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=trongnp0706&theme=github-dark-blue" width="45%" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trongnp0706&layout=compact&theme=github_dark" width="45%" alt="Top Languages"/>
 </div>
 
 ## 🎯 Featured Projects
@@ -90,7 +89,7 @@
           <img src="https://img.shields.io/badge/GreenPREP-English%20Test%20App-2ea44f?style=for-the-badge&logo=github" alt="GreenPREP"/>
         </a>
         <br/>
-        <b>GreenPREP Admin & Teacher App</b>
+        <b>GreenPREP App</b>
         <br/>
         <i>An English test application with Cambridge-standard scoring and teacher evaluation.<br/>Role: Contributor</i>
         <br/>
