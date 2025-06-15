@@ -71,7 +71,7 @@
   <a href="https://github.com/trongnp0706/Drsfan">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=trongnp0706&repo=Drsfan&theme=github_dark" alt="Drsfan"/>
   </a>
-  <a href="https://greenprep-vznp.onrender.com">
+  <a href="https://github.com/greenPrep-organization">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=trongnp0706&repo=greenprep&theme=github_dark" alt="GreenPREP"/>
   </a>
 </div>
@@ -80,6 +80,9 @@
 
 #### 🎓 English Test GreenPREP App
 <div align="center">
+  <a href="https://github.com/greenPrep-organization" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
   <a href="https://greenprep-vznp.onrender.com" target="_blank">
     <img src="https://img.shields.io/badge/Live%20Demo-2ea44f?style=for-the-badge" alt="Live Demo"/>
   </a>
